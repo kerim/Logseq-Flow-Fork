@@ -1,3 +1,6 @@
+# About this Fork
+The original maintainer made these files available after deciding to withdraw from the Logseq community. I am making the files available here so that they are easier to find, however, I am not capable of maintaining or updating this repository. I hope that someone else will take up this task...
+
 # 🧠 Logseq Flow Theme
 A minimal theme that focuses on a clean and sleek interface that's soft on the edges and comes with a large variety of color palettes.
 
